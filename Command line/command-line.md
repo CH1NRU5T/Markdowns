@@ -41,4 +41,4 @@ _delete a directory (deleted files will be gone forever)_
 
 `$ exit`
 
-_exit the terminal (the hacker way)_
+_exit the terminal **(the hacker way)**_
